@@ -1,4 +1,4 @@
-# :herb: Smart Habit Builder (Habit Aesthetics)
+# :herb: Smart Habit Builder (habitlynx)
 
 > **"Consistency is not a sprint, it's a marathon."** > A minimalist, intelligent habit tracking application designed to help you build and maintain positive routines through visual progress and streak tracking.
 
